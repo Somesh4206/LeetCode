@@ -1,10 +1,21 @@
 class Solution(object):
     def compress(self, chars):
-        freq={}
-        for i in chars:
-            freq[i]=freq.get(i,0)+1
-        res=[]
-        for k,v in freq.items():
-            res.append(k)
-            res.append(v)
+        res = []
+        i = 0
+
+        while i < len(chars):
+            ch = chars[i]
+            count = 0
+
+            while i < len(chars) and chars[i] == ch:
+                count += 1
+                i += 1
+
+            res.append(ch)
+
+            if count > 1:
+                for x in str(count):
+                    res.append(x)
+
+        chars[:] = res
         return len(res)
