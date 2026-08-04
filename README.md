@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Somesh4206/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Somesh4206/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Somesh4206/LeetCode/tree/master/0090-subsets-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/Somesh4206/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [3731-find-missing-elements](https://github.com/Somesh4206/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Somesh4206/LeetCode/tree/master/0051-n-queens) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Somesh4206/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Somesh4206/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Somesh4206/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
