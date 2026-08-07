@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Somesh4206/LeetCode/tree/master/0443-string-compression) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Somesh4206/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Somesh4206/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Somesh4206/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Somesh4206/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Somesh4206/LeetCode/tree/master/0090-subsets-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Somesh4206/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3614-process-string-with-special-operations-ii](https://github.com/Somesh4206/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
+## Math
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Somesh4206/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Somesh4206/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Somesh4206/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
