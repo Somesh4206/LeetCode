@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/Somesh4206/LeetCode/tree/master/0443-string-compression) |
 | [1927-sum-game](https://github.com/Somesh4206/LeetCode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Somesh4206/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Somesh4206/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Somesh4206/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Somesh4206/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Somesh4206/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Somesh4206/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Somesh4206/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Somesh4206/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
