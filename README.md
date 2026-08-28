@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Somesh4206/LeetCode/tree/master/0443-string-compression) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Somesh4206/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Somesh4206/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Somesh4206/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Somesh4206/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Somesh4206/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Somesh4206/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Somesh4206/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
