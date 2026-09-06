@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Somesh4206/LeetCode/tree/master/0031-next-permutation) |
 | [0443-string-compression](https://github.com/Somesh4206/LeetCode/tree/master/0443-string-compression) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Somesh4206/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Somesh4206/LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Somesh4206/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Somesh4206/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Somesh4206/LeetCode/tree/master/0051-n-queens) |
