@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Somesh4206/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/Somesh4206/LeetCode/tree/master/0443-string-compression) |
 | [1927-sum-game](https://github.com/Somesh4206/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Somesh4206/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Somesh4206/LeetCode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Somesh4206/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1510-stone-game-iv](https://github.com/Somesh4206/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Somesh4206/LeetCode/tree/master/1872-stone-game-viii) |
 ## Backtracking
