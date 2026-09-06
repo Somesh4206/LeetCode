@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Somesh4206/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Somesh4206/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Somesh4206/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Somesh4206/LeetCode/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/Somesh4206/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/Somesh4206/LeetCode/tree/master/0443-string-compression) |
 | [1927-sum-game](https://github.com/Somesh4206/LeetCode/tree/master/1927-sum-game) |
@@ -128,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Somesh4206/LeetCode/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Somesh4206/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Somesh4206/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Somesh4206/LeetCode/tree/master/0043-multiply-strings) |
 | [1510-stone-game-iv](https://github.com/Somesh4206/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Somesh4206/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Somesh4206/LeetCode/tree/master/1927-sum-game) |
