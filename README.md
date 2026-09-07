@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Somesh4206/LeetCode/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/Somesh4206/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/Somesh4206/LeetCode/tree/master/0443-string-compression) |
+| [0940-distinct-subsequences-ii](https://github.com/Somesh4206/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Somesh4206/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Somesh4206/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Somesh4206/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Somesh4206/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Somesh4206/LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Somesh4206/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Somesh4206/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/Somesh4206/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Somesh4206/LeetCode/tree/master/1872-stone-game-viii) |
 ## Backtracking
