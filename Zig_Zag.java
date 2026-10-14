@@ -1,5 +1,4 @@
-package LeetCode;
-
+package practice;
 import java.util.*;
 
 public class Zig_Zag {
@@ -32,4 +31,3 @@ public class Zig_Zag {
 		System.out.println(obj);
 	}
 }
-
